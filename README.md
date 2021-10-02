@@ -3,7 +3,7 @@
 - My tech stack currently is springboot with kotlin in day job and Nestjs with nodejs during free time 
 - 💞️ I’m looking to collaborate on building full stack projects from scratch together
 - 📫 How to reach me ...
-- Instagram(https://www.instagram.com/bhaskar_katragadda/)
+- [Instagram](https://www.instagram.com/bhaskar_katragadda/)
 
 <!---
 bhaskarkatragadda/bhaskarkatragadda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
